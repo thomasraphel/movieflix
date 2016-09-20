@@ -1,0 +1,82 @@
+#heading{
+    text-align:center;
+    font-family: "Century Gothic";
+    /*color: azure;*/
+    /*color:#e8ff40;*/
+    color:white;
+    color:#AAAAAA;
+    padding: 20px;
+
+}
+
+
+#signupheading{
+    text-align: center;
+    color: azure;
+
+}
+
+#signinheading{
+    text-align: center;
+    color:azure;
+}
+
+.sub{
+    text-align: center;
+    padding: 20px;
+
+}
+
+.proceed{
+    text-align: center;
+    padding: 20px;
+
+
+
+}
+
+html{
+    box-sizing:border-box;
+}
+
+.checkboxclass{
+    text-space: 5px;
+}
+
+
+
+.col-sm-10 {
+    padding: 10px;
+}
+
+.form-control{
+    /*background: #e0ffd5;*/
+    background: #fff2a1;
+
+    ;
+
+
+}
+
+
+
+.col-sm-2{
+    padding: 14px;
+    /*color: #f8fff4;*/
+    /*color:#e8ff40;*/
+    color:white;
+    color:#AAAAAA;
+    font-family: "Century Gothic";
+    font-size: smaller;
+
+}
+
+body{
+
+    /*background: linear-gradient(to  right,darkolivegreen,darkcyan );*/
+
+    background: #222222;
+
+}
+
+

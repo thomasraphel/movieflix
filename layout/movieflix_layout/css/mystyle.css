@@ -1,0 +1,38 @@
+.outer{
+    float: left;
+}
+
+
+h1{
+    margin-left: 170px;
+    color: cornsilk;
+}
+
+#heading{
+    padding-left: 320px;
+}
+
+
+.form-horizontal{
+    padding-top: 50px;
+    padding-left: 30px;
+    color: cornsilk;
+}
+
+h4{
+    padding-left: 30px;
+    color: cornsilk;
+}
+
+
+.col-md-6{
+    padding-left: 40px;
+}
+
+
+
+body{
+
+    background: linear-gradient(to  right, darkolivegreen, darkcyan);
+
+}

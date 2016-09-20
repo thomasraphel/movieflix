@@ -1,0 +1,124 @@
+.rectangle{
+    width:180px;
+    height:180px;
+
+    background-image:url("http://ia.media-imdb.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_SX300.jpg");
+    background-size: contain;
+
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+    
+
+
+}
+
+
+#heading{
+    text-align:center;
+    color: azure;
+    padding: 20px;
+
+}
+
+.topmovies{
+    text-align: left;
+    color: azure;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+
+.topseries{
+    text-align: left;
+    color: azure;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+
+#signupheading{
+    text-align: center;
+    color: azure;
+
+}
+
+#signinheading{
+    text-align: center;
+    color:azure;
+}
+
+.sub{
+    text-align: center;
+    padding: 20px;
+
+}
+
+.proceed{
+    text-align: center;
+    padding: 20px;
+
+}
+
+
+.next{
+    padding: 10px;
+    margin-left: 33px;
+}
+
+html{
+    box-sizing:border-box;
+}
+
+.checkboxclass{
+    text-space: 5px;
+}
+
+
+
+.col-sm-10 {
+    padding: 10px;
+}
+
+.form-control{
+    background: #e0ffd5;
+}
+
+
+
+.col-sm-2{
+    padding: 10px;
+
+
+}
+
+.row{
+    margin-left: 10px;
+}
+
+
+
+
+
+.loginbutton{
+    text-align: center;
+    padding: 10px;
+}
+
+
+body{
+
+    background: linear-gradient(to  right,darkolivegreen,darkcyan );
+
+
+
+}
+
+
+body, html{
+    height: 100%;
+    background: #222222;
+    font-family: 'Lato', sans-serif;
+}
+
