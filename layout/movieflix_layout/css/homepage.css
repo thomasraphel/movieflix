@@ -1,0 +1,34 @@
+body{
+    background-image: url("../images/bgimage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: inherit;
+
+
+
+}
+
+
+#btnsignin {
+    margin-left: 121px;
+    margin-top: 1px;
+    width: 84px;
+    height: 45px;
+    background: border-box;
+    border: inset;
+    color: white;
+    font-size:14px;
+    font-weight:700;
+}
+
+#btnsignup{
+    margin-left: 121px;
+    margin-top: 1px;
+    width: 84px;
+    height: 45px;
+    background:  border-box;
+    border: inset;
+    color: white;
+    font-size:14px;
+    font-weight:700;
+}
